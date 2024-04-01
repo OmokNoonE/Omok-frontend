@@ -1,9 +1,16 @@
 <script setup>
+// import HeaderAll from './views/HeaderView.vue';
+// import FooterAll from './views/FooterView.vue';
+
+import { RouterView } from 'vue-router';
 </script>
 
 <template>
-  <h3>정상 출력 문자입니다.</h3>
+    <!-- <HeaderAll/> -->
+    <!-- <RouterView/> -->
+    <!-- <FooterAll/> -->
 </template>
 
 <style scoped>
+
 </style>
